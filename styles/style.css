@@ -42,6 +42,7 @@ body {
     font-weight: 600;
     color: var(--cor-terciaria);
     text-decoration: none;
+    color: aqua;
 }
 
 .apresentacao {
